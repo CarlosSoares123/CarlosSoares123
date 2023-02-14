@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá, meu nome é Carlos Soare 👋
 
-Olá, meu nome é Carlos Soares e sou um estudante apaixonado por programação. Possuo habilidades em HTML, CSS e JavaScript e estou sempre em busca de aprimoramento para me tornar um desenvolvedor web completo. Atualmente, estou trabalhando no meu projeto de TCC do ensino médio, onde estou desenvolvendo um site para uma agência de marketing digital.
+Sou um estudante apaixonado por programação. Possuo habilidades em HTML, CSS e JavaScript e estou sempre em busca de aprimoramento para me tornar um desenvolvedor web completo. Atualmente, estou trabalhando no meu projeto de TCC do ensino médio, onde estou desenvolvendo um site para uma agência de marketing digital.
 
 Busco constantemente expandir meus conhecimentos em tecnologias como Node.js e React.js, entre outras ferramentas, com o objetivo de me tornar um profissional altamente qualificado e capaz de criar soluções criativas e inovadoras para os desafios do mercado de desenvolvimento web.
 
