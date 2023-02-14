@@ -1,13 +1,14 @@
 ### Olá eu sou Carlos Soares 👋
 
- Sou um estudante apaixonado por programação. Possuo habilidades em HTML, CSS e JavaScript e estou sempre em busca de aprimoramento para me tornar um desenvolvedor web completo. Atualmente, estou trabalhando no meu projeto de TCC do ensino médio, onde estou desenvolvendo um site para uma agência de marketing digital.
+ Sou um estudante dedicado à programação. Possuo conhecimento em HTML, CSS e JavaScript e estou sempre em busca de aprimoramento para me tornar um desenvolvedor web completo. Atualmente, estou trabalhando no meu projeto de TCC do ensino médio, onde estou desenvolvendo um site para uma agência de marketing digital.
 
-Busco constantemente expandir meus conhecimentos em tecnologias como Node.js e React.js, entre outras ferramentas, com o objetivo de me tornar um profissional altamente qualificado e capaz de criar soluções criativas e inovadoras para os desafios do mercado de desenvolvimento web.
+Busco novas oportunidades e desafios para aplicar e expandir meus conhecimentos em tecnologias como Node.js e React.js, entre outras ferramentas que possam me ajudar a me tornar um profissional de destaque no mercado de desenvolvimento web.
 
-Acredito que a paixão pela programação e a constante busca por aprimoramento são fundamentais para o sucesso na carreira de desenvolvimento web. Meu objetivo é contribuir para o desenvolvimento de soluções tecnológicas que possam transformar o mundo e tornar a vida das pessoas mais fácil e prática.
+Sou uma pessoa comprometida, curiosa e apaixonada pela programação. Gosto de trabalhar em equipe e estou sempre disposto a aprender com os outros, além de estar sempre aberto a novas ideias e sugestões.
 
-Convido você a acompanhar meu trabalho e a fazer parte dessa jornada rumo à excelência na programação. Vamos juntos criar soluções incríveis para os desafios do mercado digital!
+Acredito que o desenvolvimento web é uma área em constante evolução e, por isso, estou em constante busca por novos conhecimentos e tecnologias. Estou animado para encontrar novas oportunidades e aventuras que possam me ajudar a crescer pessoal e profissionalmente.
 
+Convido você a explorar meu perfil e projetos em meu GitHub e a se juntar a mim nesta jornada rumo ao sucesso na programação. Vamos juntos criar soluções incríveis para os desafios do mercado digital!
 
 - 🤓 Hoje estou trabalhando com front end
 - 🧐 Estudando Javascript para front end e back end
