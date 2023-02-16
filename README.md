@@ -1,16 +1,16 @@
-### Olá eu sou Carlos Soares 👋
+### Hi, My name is Carlos Soares 👋
 
- Sou um estudante dedicado à programação. Possuo conhecimento em HTML, CSS e JavaScript e estou sempre em busca de aprimoramento para me tornar um desenvolvedor web completo. Atualmente, estou trabalhando no meu projeto de TCC do ensino médio, onde estou desenvolvendo um site para uma agência de marketing digital.
+ I am a dedicated programming student. I have knowledge in HTML, CSS, and JavaScript and am always looking to improve myself to become a complete web developer. Currently, I am working on my high school thesis project, where I am developing a website for a digital marketing agency.
 
-Busco novas oportunidades e desafios para aplicar e expandir meus conhecimentos em tecnologias como Node.js e React.js, entre outras ferramentas que possam me ajudar a me tornar um profissional de destaque no mercado de desenvolvimento web.
+I am seeking new opportunities and challenges to apply and expand my knowledge in technologies such as Node.js and React.js, among other tools that can help me become a standout professional in the web development market.
 
-Sou uma pessoa comprometida, curiosa e apaixonada pela programação. Gosto de trabalhar em equipe e estou sempre disposto a aprender com os outros, além de estar sempre aberto a novas ideias e sugestões.
+I am a committed, curious, and passionate person about programming. I enjoy working in a team and am always willing to learn from others, as well as being open to new ideas and suggestions.
 
-Acredito que o desenvolvimento web é uma área em constante evolução e, por isso, estou em constante busca por novos conhecimentos e tecnologias. Estou animado para encontrar novas oportunidades e aventuras que possam me ajudar a crescer pessoal e profissionalmente.
+I believe that web development is an area in constant evolution, and for that reason, I am constantly seeking new knowledge and technologies. I am excited to find new opportunities and adventures that can help me grow personally and professionally.
 
-Convido você a explorar meu perfil e projetos em meu GitHub e a se juntar a mim nesta jornada rumo ao sucesso na programação. Vamos juntos criar soluções incríveis para os desafios do mercado digital!
+I invite you to explore my profile and projects on my GitHub and join me on this journey towards success in programming. Let's create incredible solutions together for the challenges of the digital market!
 
-- 🤓 Hoje estou trabalhando com front end
-- 🧐 Estudando Javascript para front end e back end
-- 📧 Contacta-me no email: carlossoaresdev@gmail.com
+🤓 Today I am working with front-end
+🧐 Studying JavaScript for front-end and back-end
+📧 Contact me
 
