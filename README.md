@@ -1,16 +1,15 @@
 ### Hi, My name is Carlos Soares 👋
 
- I am a dedicated programming student. I have knowledge in HTML, CSS, and JavaScript and am always looking to improve myself to become a complete web developer. Currently, I am working on my high school thesis project, where I am developing a website for a digital marketing agency.
+Eu sou um estudante dedicado de programação. Tenho conhecimento em HTML, CSS e JavaScript e estou sempre procurando melhorar para me tornar um desenvolvedor web completo. Atualmente, estou trabalhando em meu projeto de tese do ensino médio, onde estou desenvolvendo um site para uma agência de marketing digital.
 
-I am seeking new opportunities and challenges to apply and expand my knowledge in technologies such as Node.js and React.js, among other tools that can help me become a standout professional in the web development market.
+Estou buscando novas oportunidades e desafios para aplicar e expandir meu conhecimento em tecnologias como Node.js e React.js, entre outras ferramentas que possam me ajudar a me destacar como profissional no mercado de desenvolvimento web.
 
-I am a committed, curious, and passionate person about programming. I enjoy working in a team and am always willing to learn from others, as well as being open to new ideas and suggestions.
+Sou uma pessoa comprometida, curiosa e apaixonada por programação. Gosto de trabalhar em equipe e estou sempre disposto a aprender com os outros, além de estar aberto a novas ideias e sugestões.
 
-I believe that web development is an area in constant evolution, and for that reason, I am constantly seeking new knowledge and technologies. I am excited to find new opportunities and adventures that can help me grow personally and professionally.
+Acredito que o desenvolvimento web é uma área em constante evolução e, por isso, estou constantemente buscando novos conhecimentos e tecnologias. Estou animado para encontrar novas oportunidades e aventuras que possam me fazer crescer pessoal e profissionalmente.
 
-I invite you to explore my profile and projects on my GitHub and join me on this journey towards success in programming. Let's create incredible solutions together for the challenges of the digital market!
+Convido você a explorar meu perfil e projetos no GitHub e me acompanhar nessa jornada em busca do sucesso na programação. Vamos criar soluções incríveis juntos para os desafios do mercado digital!
 
-🤓 Today I am working with front-end
-🧐 Studying JavaScript for front-end and back-end
-📧 Contact me
-
+🤓 Hoje estou trabalhando com front-end
+🧐 Estudando React.js e Node.js
+📧 Entre em contato comigo
