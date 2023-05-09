@@ -1,15 +1,17 @@
-### Hi, My name is Carlos Soares 👋
+# Olá, eu sou o Carlos Celestino Antonio Soares! 👋
+Sou um desenvolvedor front-end júnior, com foco em ReactJS e habilidades em C# e C++. Estou constantemente aprimorando minhas habilidades e conhecimentos em desenvolvimento web para me tornar um desenvolvedor mais completo e capaz. Aqui estão algumas informações sobre mim:
 
-Eu sou um estudante dedicado de programação. Tenho conhecimento em HTML, CSS e JavaScript e estou sempre procurando melhorar para me tornar um desenvolvedor web completo. Atualmente, estou trabalhando em meu projeto de tese do ensino médio, onde estou desenvolvendo um site para uma agência de marketing digital.
-
-Estou buscando novas oportunidades e desafios para aplicar e expandir meu conhecimento em tecnologias como Node.js e React.js, entre outras ferramentas que possam me ajudar a me destacar como profissional no mercado de desenvolvimento web.
-
-Sou uma pessoa comprometida, curiosa e apaixonada por programação. Gosto de trabalhar em equipe e estou sempre disposto a aprender com os outros, além de estar aberto a novas ideias e sugestões.
-
-Acredito que o desenvolvimento web é uma área em constante evolução e, por isso, estou constantemente buscando novos conhecimentos e tecnologias. Estou animado para encontrar novas oportunidades e aventuras que possam me fazer crescer pessoal e profissionalmente.
-
-Convido você a explorar meu perfil e projetos no GitHub e me acompanhar nessa jornada em busca do sucesso na programação. Vamos criar soluções incríveis juntos para os desafios do mercado digital!
-
-🤓 Hoje estou trabalhando com front-end
-🧐 Estudando React.js e Node.js
-📧 Entre em contato comigo
+💻 Trabalho como freelancer em desenvolvimento de aplicativos e sites modernos e responsivos utilizando HTML, CSS e JavaScript há 2 anos.
+🌱 Estou atualmente me aprofundando em JavaScript e aprendendo novas tecnologias de desenvolvimento web.
+🔭 Estou procurando por uma oportunidade de emprego como desenvolvedor front-end júnior.
+📫 Você pode entrar em contato comigo pelo e-mail: carlossoaresdev@gmail.com
+Minhas habilidades
+HTML, CSS, JavaScript
+ReactJS
+C# e C++
+Banco de dados básico
+Aprendizagem rápida
+Trabalho em equipe
+Comunicação eficaz
+Autodidata
+Paciente
