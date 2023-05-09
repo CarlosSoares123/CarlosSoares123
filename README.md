@@ -6,7 +6,7 @@ Sou um desenvolvedor front-end júnior, com foco em ReactJS e habilidades em C# 
 🔭 Estou procurando por uma oportunidade de emprego como desenvolvedor front-end júnior.<br/>
 📫 Você pode entrar em contato comigo pelo e-mail: carlossoaresdev@gmail.com<br/>
 
-###Minhas habilidades<br/>
+### Minhas habilidades<br/>
 HTML, CSS, JavaScript<br/>
 ReactJS<br/>
 C# e C++<br/>
