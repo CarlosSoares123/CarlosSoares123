@@ -51,8 +51,11 @@
 
 ### Tecnologias Back-end:
 <div style="display: flex; gap: 10px;">
-<img src="https://img.shields.io/badge/Node.Js-green?style=for-the-badge&logo=node.Js&logoColor=white&border=7F3FBF">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&border=7F3FBF">
+<img src="https://img.shields.io/badge/Node.Js-green?style=for-the-badge&logo=node.Js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/Bcrypt-2A72AC?style=for-the-badge&logo=Bcrypt&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/OAuth-2A72AC?style=for-the-badge&logo=oauth&logoColor=white&border=7F3FBF">
 </div>
 
 ### Ferramentas de Controle de Versão:
