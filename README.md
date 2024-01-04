@@ -1,47 +1,80 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carlos+Soares;I'm+19+years+old;I+am+from+Angola;I+am+a+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosSoares123&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSoares123&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosSoares123&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hello,+my+name+is+Carlos+Soares;I+am+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosSoares123&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+ <a href="https://carlossoares.netlify.app/" target="blank">
+  <img src="https://img.shields.io/badge/Porfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white&border=7F3FBF" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/al-siam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border=7F3FBF" alt="alsiam"/>
+ </a>
+  <a href="https://api.whatsapp.com/send?phone=244950802641" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-gree?style=for-the-badge&logo=whatsApp&logoColor=white&border=7F3FBF" alt="alsiam"/>
+ </ a>
+ <a href="https://carlossoarespedro20@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-20BEFF?&style=for-the-badge&logo=gmail&logoColor=white&border=7F3FBF" alt="alsiam"  />
+  </a>
+</p>
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a>
+    <a href="https://github.com/CarlosSoares123"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=CarlosSoares123&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/CarlosSoares123"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CarlosSoares123&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+## Stacks
+
+### Linguagem:
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&border=7F3FBF">
+
+### Base de Dados: 
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&border=7F3FBF">
+
+### Tecnologias Front-end:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&border=7F3FBF" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&border=7F3FBF">
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/Tailwind-3b8ba5?style=for-the-badge&logo=Tailwind css&logoColor=white&border=7F3FBF">
+
+### Tecnologias Back-end:
+<img src="https://img.shields.io/badge/Node.Js-green?style=for-the-badge&logo=node.Js&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&border=7F3FBF">
+
+### Ferramentas de Controle de Versão:
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border=7F3FBF">
+
+### Outras Ferramentas e Tecnologias
+<img src="https://img.shields.io/badge/Axios-yellow?style=for-the-badge&logo=axios&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/Jest-99425b?style=for-the-badge&logo=Jest&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/Socket.io-000?style=for-the-badge&logo=socket.io&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white&border=7F3FBF">
+<img src="https://img.shields.io/badge/Sequelize-blue?style=for-the-badge&logo=Sequelize&logoColor=white&border=7F3FBF">
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/CarlosSoares123">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosSoares123&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
 </p>
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/carlos-soares-8a1758290/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&"</a>
-</div> 
- 
-### Main skills:
-![Node](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117)&nbsp;
- 
-
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
-![Mongo Db](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+<p align="center">
+  <a href="https://github.com/CarlosSoares123">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosSoares123&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosSoares123}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosSoares123}/count.svg" /></p>
 <br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
