@@ -24,6 +24,18 @@
   <br/>
 </a>
 
+<div align="center" style="display: flex; justify-content: space-between; gap: 5px;">
+
+  <a href="https://github.com/CarlosSoares123">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosSoares123&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+  
+  <a href="https://github.com/CarlosSoares123">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosSoares123&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+  
+</div>
+
 ## Stacks
 
 ### Linguagem:
@@ -75,17 +87,8 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/CarlosSoares123">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosSoares123&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/CarlosSoares123">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosSoares123&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
